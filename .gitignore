@@ -1,0 +1,7 @@
+*.pyc
+venv/
+db.sqlite3
+.idea/
+#api/migrations/*.py
+#local_settings.py
+#media/
